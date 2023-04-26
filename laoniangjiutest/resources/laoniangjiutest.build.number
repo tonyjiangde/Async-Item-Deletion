@@ -1,0 +1,11 @@
+#Ant properties
+#Tue Feb 07 16:59:41 CET 2023
+version.api=2205
+vendor=hybris
+group.id=de.hybris.platform
+name=laoniangjiutest
+description=laoniangjiutest
+builddate=20230207 1659
+releasedate=20220601 2009
+version=2205.9
+module.name=platform-module
